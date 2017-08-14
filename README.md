@@ -1,2 +1,2 @@
 # Lejos-Ev3-3D-Printer
-Programs for a Ev3 3D Lego Printer using java/lejos.
+  This repository contains programs for an Ev3 3D Lego Printer using java/lejos. You will have to download java and lejos to run these programs.
